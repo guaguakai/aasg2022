@@ -5,13 +5,16 @@
        <loc>WEBSITE</loc>
    </url>
    <url>
-       <loc>WEBSITE/registration</loc>
+       <loc>WEBSITE/call</loc>
+   </url>
+   <url>
+       <loc>WEBSITE/keynotes</loc>
    </url>
    <url>
        <loc>WEBSITE/program</loc>
    </url>
    <url>
-       <loc>WEBSITE/directions</loc>
+       <loc>WEBSITE/organization</loc>
    </url>
 </urlset> 
 
