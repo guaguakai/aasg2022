@@ -27,6 +27,10 @@
       clear: both;
       display: table;
     }
+    .centered-and-cropped {
+        object-fit: cover;
+        border-radius:50%;
+    }
     </style>
 </head>
 
@@ -72,13 +76,13 @@
 
     <div class="row">
         <div class="column">
-            <img src="assets/health.jpg" alt="Public Health" style="width:100%">
+            <img class="centered-and-cropped" src="assets/health.jpg" alt="Public Health" style="width:100%">
         </div>
         <div class="column">
-            <img src="assets/conservation.jpg" alt="Conservation" style="width:100%">
+            <img class="centered-and-cropped" src="assets/conservation.jpg" alt="Conservation" style="width:100%">
         </div>
         <div class="column">
-            <img src="assets/human-right.jpg" alt="Human Right" style="width:100%">
+            <img class="centered-and-cropped" src="assets/human-right.jpg" alt="Human Right" style="width:100%">
         </div>
     </div>
 
