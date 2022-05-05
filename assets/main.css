@@ -72,6 +72,7 @@ table{
 }
 th,td{
     text-align: left;
+    vertical-align: top;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
     /*border: 1px solid black;*/
 }
